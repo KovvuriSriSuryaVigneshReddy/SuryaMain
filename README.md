@@ -60,6 +60,7 @@ Welcome to my GitHub! I'm a passionate student with an interest in programming a
 - 🔐 Explore **Cybersecurity** and ethical hacking basics.
 - ☁️ Dive into **Cloud Technologies** like AWS or Azure.
 - 🤝 Collaborate with other developers on GitHub & contribute to open-source.
+- 🎓 Get internship or work experience in software development.
 - 🗣️ Improve communication and leadership skills through team projects.
 
 ---
