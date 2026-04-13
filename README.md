@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kovvuri Sri Surya Vignesh Reddy
 
-**📍 From Kakinada | 🎓 Student | 💻 Tech Enthusiast | 💡 Lifelong Learner**
+**📍 From Balabhadrapuram | 🎓 Student | 💻 Tech Enthusiast **
 
 Welcome to my GitHub! I'm a passionate student with an interest in programming and web development. I enjoy learning new technologies and applying them in creative ways to solve problems.
 
@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a passionate student with an interest in programming a
 
 ## ✨ About Me
 
-- 🏡 I’m from **Kakinada, Andhra Pradesh**
+- 🏡 I’m from **Balabhadrapuram, Andhra Pradesh**
 - 🎓 Currently pursuing my education and growing my skills in software development.
 - 💬 I like to experiment with **Python** and web technologies like **HTML**, **CSS**, and **Java**.
 - 🎯 Always aiming to learn something new every day.
@@ -57,8 +57,7 @@ Welcome to my GitHub! I'm a passionate student with an interest in programming a
 - 📚 Master advanced **Python**, **Java**, and **Web Development** frameworks.
 - 🌐 Build a personal **portfolio website** and launch live projects.
 - 🧠 Learn **Data Structures & Algorithms** for problem-solving.
-- 🔐 Explore **Cybersecurity** and ethical hacking basics.
-- ☁️ Dive into **Cloud Technologies** like AWS or Azure.
+- ☁️ Dive into **Cloud Technologies** like AWS .
 - 🤝 Collaborate with other developers on GitHub & contribute to open-source.
 - 🎓 Get internship or work experience in software development.
 - 🗣️ Improve communication and leadership skills through team projects.
