@@ -9,18 +9,15 @@
 ## 🐍 Contribution Snake Game
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KovvuriSriSuryaVigneshReddy/KovvuriSriSuryaVigneshReddy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KovvuriSriSuryaVigneshReddy/KovvuriSriSuryaVigneshReddy/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/KovvuriSriSuryaVigneshReddy/KovvuriSriSuryaVigneshReddy/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ## 💻 Tech Stack & Top Skills
 
-### ☁️ Core Platforms & Practices
+### ☁️ Core Platforms & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-000000?style=for-the-badge&logo=lovable&logoColor=cyan)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FFD700?style=for-the-badge&logo=lightning&logoColor=black)
@@ -33,7 +30,6 @@
 ### 🤖 AI & Engineering
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Frontend & Web Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,12 +45,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KovvuriSriSuryaVigneshReddy&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KovvuriSriSuryaVigneshReddy&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KovvuriSriSuryaVigneshReddy&theme=radical&hide_border=false" alt="GitHub Streak" />
@@ -62,14 +53,27 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Badges & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KovvuriSriSuryaVigneshReddy&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Quickdraw-Achieved-gold?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/Pull_Shark-Active-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Pair_Extraordinaire-Unlocked-orange?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/YOLO-Unlocked-purple?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
 </p>
 
 ---
 
+## 👁️ Profile Views
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KovvuriSriSuryaVigneshReddy&icon=1&color=4" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KovvuriSriSuryaVigneshReddy&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+---
+
+<p align="center">
+  <img src="./bottom-banner.gif" alt="Cyber Tech Animation" width="100%" />
 </p>
